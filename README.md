@@ -1,4 +1,5 @@
 # codsofttask2
+#IRIS FLOWER CLASSIFICATION
 # Correct dataset path
 url = '/kaggle/input/iris-flower-dataset/IRIS.csv'
 
